@@ -7,4 +7,4 @@
 
 ### Version: Beta 1.0.1 | 6 Mei 2019 ###
 
-- [:heavy_check_mark:] Print Design Database
+- [:x:] Print Design Database
