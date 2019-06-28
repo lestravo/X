@@ -1,0 +1,21 @@
+'use strict'
+module.exports = {
+  NODE_ENV: '"production"',
+  GTM_ID: '"UA-128563721-2"',
+  API_BANNER: '"https://app-prod.asani.co.id/api/v1/rent/banner-laptop"',
+  API_ALL_PRODUCT: '"https://app-prod.asani.co.id/api/v1/rent/all-product-laptop"',
+  API_ALL_PRODUCT_BELI: '"https://app-prod.asani.co.id/api/v1/rent/all-product-laptop-beli"',
+  API_PROD_DESC: '"https://app-prod.asani.co.id/api/v1/rent/product-description"',
+  API_SAVE_FORM: '"https://app-prod.asani.co.id/api/v1/rent/save-form"',
+  API_SAVE_FORM_LAPTOP: '"https://app-prod.asani.co.id/api/v1/rent/save-form-laptop"',
+  API_SAVE_FORM_LAPTOP_BUY: '"https://app-prod.asani.co.id/api/v1/rent/save-form-laptop-buy"',
+  API_SAVE_AREA: '"https://app-prod.asani.co.id/api/v1/rent/save-form-area"',
+  API_SEND_OTP: '"https://app-prod.asani.co.id/api/v1/rent/send-otp"',
+  API_SEND_OTP_LAPTOP: '"https://app-prod.asani.co.id/api/v1/rent/send-otp-laptop"',
+  API_LOGIN: '"https://app-prod.asani.co.id/api/v1/rent/login"',
+  API_USER_INFO: '"https://app-prod.asani.co.id/api/v1/rent/user-info"',
+  API_USER_INFO_BUY: '"https://app-prod.asani.co.id/api/v1/rent/user-info-buy"',
+  API_GET_PROVINCE: '"https://app-prod.asani.co.id/api/v1/rent/get-provinsi"',
+  API_GET_CITY: '"https://app-prod.asani.co.id/api/v1/rent/kabkot"',
+  API_GET_DISTRICT: '"https://app-prod.asani.co.id/api/v1/rent/kecamatan"',
+}
